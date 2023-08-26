@@ -14,7 +14,7 @@ https://dribbble.com/shots/15672503-Create-an-account-iOS-App-Design/attachments
 
 ## Register screen
 
-<img width="483" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/9e2fb3a8-9818-4f38-b422-bd0814fc36ca">
+<img width="483" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/81f43065-c5ea-4173-9101-e74f60e06d65">
 
 ## Login screen
 

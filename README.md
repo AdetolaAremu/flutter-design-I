@@ -1,16 +1,12 @@
-# designflutter
+## I am designing random screens from dribble.
 
-A new Flutter project.
+# Please see the images below
 
-## Getting Started
+# Home screen
+<img width="483" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/42e87706-cd41-48e3-87b2-3add2cf6e29f">
 
-This project is a starting point for a Flutter application.
+# Register screen
+<img width="483" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/9e2fb3a8-9818-4f38-b422-bd0814fc36ca">
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Login screen
+<img width="483" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/0ddc054b-02c4-44e4-98a7-4780c56a47c8">

@@ -71,6 +71,36 @@ class _RegisterViewState extends State<RegisterView> {
                     Expanded(
                       child: Material(
                         elevation: 3.0,
+                        shadowColor: const Color(0xFFFAFAFA),
+                        child: TextField(
+                          decoration: InputDecoration(
+                            hintText: 'Name',
+                            hintStyle: const TextStyle(color: Colors.grey),
+                            contentPadding: const EdgeInsets.symmetric(
+                                vertical: 6, horizontal: 6),
+                            enabledBorder: OutlineInputBorder(
+                              borderSide: const BorderSide(
+                                color: Colors.white,
+                              ),
+                              borderRadius: BorderRadius.circular(14),
+                            ),
+                          ),
+                        ),
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              const SizedBox(
+                height: 20,
+              ),
+              Padding(
+                padding: const EdgeInsets.symmetric(horizontal: 10),
+                child: Row(
+                  children: [
+                    Expanded(
+                      child: Material(
+                        elevation: 3.0,
                         shadowColor: const Color.fromARGB(244, 247, 245, 245),
                         child: TextField(
                           decoration: InputDecoration(

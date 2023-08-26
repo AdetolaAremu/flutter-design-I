@@ -62,7 +62,7 @@ class _RegisterViewState extends State<RegisterView> {
                 ),
               ),
               const SizedBox(
-                height: 20,
+                height: 12,
               ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10),
@@ -92,7 +92,7 @@ class _RegisterViewState extends State<RegisterView> {
                 ),
               ),
               const SizedBox(
-                height: 20,
+                height: 12,
               ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 10),
@@ -141,7 +141,7 @@ class _RegisterViewState extends State<RegisterView> {
                 ),
               ),
               const SizedBox(
-                height: 40,
+                height: 20,
               ),
               TextButton(
                 onPressed: () {
@@ -170,7 +170,7 @@ class _RegisterViewState extends State<RegisterView> {
                 ),
               ),
               const SizedBox(
-                height: 20,
+                height: 10,
               ),
               const LoginOptions(
                 image: 'assets/fb.png',
@@ -180,7 +180,7 @@ class _RegisterViewState extends State<RegisterView> {
                 imageSize: 17,
               ),
               const SizedBox(
-                height: 20,
+                height: 10,
               ),
               const LoginOptionsRight(
                 image: 'assets/google.jpg',

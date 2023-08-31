@@ -19,3 +19,8 @@ https://dribbble.com/shots/15672503-Create-an-account-iOS-App-Design/attachments
 ## Login screen
 
 <img width="483" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/0ddc054b-02c4-44e4-98a7-4780c56a47c8">
+
+## Private Home screen -> 
+credits: https://dribbble.com/shots/15002657-Mental-Health-App/attachments/6724284?mode=media
+<img width="486" alt="image" src="https://github.com/AdetolaAremu/flutter-design-I/assets/75201167/cb84a51e-bf7c-4b5c-9418-8d2042afdbfd">
+

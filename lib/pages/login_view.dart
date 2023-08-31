@@ -1,3 +1,4 @@
+import 'package:designflutter/pages/dashboard_view.dart';
 import 'package:designflutter/pages/register_view.dart';
 import 'package:designflutter/util/login_options.dart';
 import 'package:flutter/material.dart';
@@ -102,7 +103,12 @@ class _LoginViewState extends State<LoginView> {
                   style: const ButtonStyle(
                     backgroundColor: MaterialStatePropertyAll(Colors.amber),
                   ),
-                  onPressed: () {},
+                  onPressed: () {
+                    Navigator.push(context,
+                        MaterialPageRoute(builder: (context) {
+                      return const DashboardView();
+                    }));
+                  },
                   child: const Text(
                     'Login',
                     style: TextStyle(color: Colors.black),
